@@ -1,5 +1,7 @@
 # Awesome AI
 
+collect curated lists of awesome things related to AI agent, rag, code assistant etc.
+
 ## Code Assistant 
 
 sophisticated tool powered by artificial intelligence that aids developers by providing real-time support and automating various aspects of the coding process
