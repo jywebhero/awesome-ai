@@ -29,6 +29,7 @@
 - [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
 - [langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go.
+- [BabyAGI](https://github.com/yoheinakajima/babyagi) - BabyAGI is an experimental framework for a self-building autonomous agent. Earlier efforts to expand BabyAGI have made it clear that the optimal way to build a general autonomous agent is to build the simplest thing that can build itself.
 
 ## LLM Engineering Platform
 
