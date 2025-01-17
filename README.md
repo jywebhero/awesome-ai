@@ -1,10 +1,12 @@
-# Awesome AI
+<div style="text-align:center">
+  <img src="https://huntawesome.org/imgs/logo.png" alt="Markdown Logo" />
 
-Collect curated lists of awesome things related to AI.
+  # Awesome AI
+  
+  Collect curated lists of awesome things related to AI.
+</div>
 
 ## Code Assistant 
-
-Sophisticated tool powered by artificial intelligence that aids developers by providing real-time support and automating various aspects of the coding process
 
 - [continue](https://github.com/continuedev/continue) - Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.
 - [cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -16,8 +18,6 @@ Sophisticated tool powered by artificial intelligence that aids developers by pr
 
 ## Agent
 
-Agent to perform tasks autonomously by perceiving its environment, making decisions, and taking actions to achieve specific goals. 
-
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.
 - [langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [LLaMA-Factory](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
@@ -28,3 +28,12 @@ Agent to perform tasks autonomously by perceiving its environment, making decisi
 - [Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - FAuto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an tailored way.
 - [khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go.
+
+## LLM Engineering Platform
+
+- [langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more.
+
+## Personal Assistant
+
+- [inbox-zero](https://github.com/elie222/inbox-zero) - Inbox Zero is the open-source AI personal assistant for people who want to spend less time on email. Your email for you based on a plain text prompt file. It can take any action a human assistant can take on your behalf (Draft reply, Label, Archive, Reply, Forward, Mark Spam, and even call a webhook). Categorize everyone that's ever emailed you. Automatically block cold emails. Track your email activity with daily, weekly, and monthly stats.
