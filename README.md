@@ -35,6 +35,9 @@
 
 - [WrenAI](https://github.com/Canner/WrenAI) - Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI.
 - [Vanna](https://github.com/vanna-ai/vanna) - Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.
+- [sqlchat](https://github.com/sqlchat/sqlchat) - SQL Chat is a chat-based SQL client, which uses natural language to communicate with the database to implement operations such as query, modification, addition, and deletion of the database.
+- [Dataherald](https://github.com/Dataherald/dataherald) - Dataherald is a natural language-to-SQL engine built for enterprise-level question answering over relational data. It allows you to set up an API from your database that can answer questions in plain English. 
+- [supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms. This unification ensures that Chat BI has access to the same curated and governed semantic data models as traditional BI.
 
 ## LLM Engineering Platform
 
