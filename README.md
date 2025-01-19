@@ -30,7 +30,11 @@
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
 - [langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - BabyAGI is an experimental framework for a self-building autonomous agent. Earlier efforts to expand BabyAGI have made it clear that the optimal way to build a general autonomous agent is to build the simplest thing that can build itself.
+
+## Sql Generation
+
 - [WrenAI](https://github.com/Canner/WrenAI) - Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI.
+- [Vanna](https://github.com/vanna-ai/vanna) - Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.
 
 ## LLM Engineering Platform
 
