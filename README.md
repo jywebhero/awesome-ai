@@ -15,9 +15,18 @@
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - The OG code genereation experimentation platform! GPT-engineer allows you to specify software in natural language, sit back, and watch as an AI writes and executes the code. You can also ask the AI to implement improvements.
 - [Roo-Cline](https://github.com/RooVetGit/Roo-Cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
+## Chat
+
+- [LobeChat](https://github.com/lobehub/lobe-chat) - An open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+
+## Self Hosted
+
+- [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. It allows you to run LLMs, generate images, audio (and not only) locally or on-prem with consumer grade hardware, supporting multiple model families and architectures. 
 
 ## Agent
 
+- [LangChain](https://github.com/langchain-ai/langchain) - LangChain is a framework for developing applications powered by large language models (LLMs).
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.
 - [langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [LLaMA-Factory](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
