@@ -62,3 +62,9 @@
 - [DocsGPT](https://github.com/arc53/docsgpt) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow.
 - [Txtai](https://github.com/neuml/txtai) - All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.
 - [Swirl-search](https://github.com/swirlai/swirl-search) - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
+
+## Ai Web Ui
+
+- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion, implemented using Gradio library.
+- [InvokeAI](https://github.com/invoke-ai/Invoke) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI.git) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
