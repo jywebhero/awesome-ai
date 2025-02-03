@@ -67,4 +67,4 @@
 
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A web interface for Stable Diffusion, implemented using Gradio library.
 - [InvokeAI](https://github.com/invoke-ai/Invoke) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI.git) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI.git) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
